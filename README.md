@@ -10,6 +10,10 @@ Get Started:
 
     dart run build_runner build
 
+# Run migration to update Database Schema
+
+    dart run bin/migration.dart
+
 # Run example
 
     dart run bin/main.dart
