@@ -364,21 +364,21 @@ packages:
       name: needle_orm
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.0.2"
+    version: "0.0.3"
   needle_orm_generator:
     dependency: "direct dev"
     description:
       name: needle_orm_generator
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.0.2"
+    version: "0.0.3"
   needle_orm_mariadb:
     dependency: "direct main"
     description:
       name: needle_orm_mariadb
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.0.1"
+    version: "0.0.3"
   needle_orm_migration_generator:
     dependency: "direct main"
     description:
@@ -392,7 +392,7 @@ packages:
       name: needle_orm_postgres
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.0.1"
+    version: "0.0.3"
   node_preamble:
     dependency: transitive
     description:
